@@ -5,4 +5,4 @@ please read `final_report.pdf`.
 
 ## Usage
 
-To run the functions, uncomment them in the main method in `main.py`
+To run the functions, uncomment them in the main method in `main.py`.
